@@ -1,0 +1,4 @@
+interface:
+  display_name: "本机录屏"
+  short_description: "打开无需大模型 API 的本机录屏工具，使用按钮和快捷键录画面、系统声音及可选麦克风"
+  default_prompt: "使用 $mac-screen-recorder 打开本机录屏工具，让我通过按钮和快捷键操作。"

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleIdentifier</key><string>dev.liam.local-screen-recorder</string>
+  <key>CFBundleName</key><string>本机录屏</string>
+  <key>CFBundleDisplayName</key><string>本机录屏</string>
+  <key>CFBundleExecutable</key><string>LocalScreenRecorder</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>0.2.1</string>
+  <key>CFBundleVersion</key><string>3</string>
+  <key>CFBundleIconFile</key><string>AppIcon</string>
+  <key>LSMinimumSystemVersion</key><string>15.0</string>
+  <key>NSHighResolutionCapable</key><true/>
+  <key>NSMicrophoneUsageDescription</key><string>仅在你开启“麦克风（人声）”并开始录制时，录下你的声音并保存到本机视频。</string>
+  <key>NSScreenCaptureUsageDescription</key><string>仅在你按下开始按钮或快捷键后，录制你选择的画面与系统声音并保存到本机。</string>
+</dict></plist>
